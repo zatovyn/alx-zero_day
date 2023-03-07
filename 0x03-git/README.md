@@ -1,1 +1,2 @@
 not empty
+second line
